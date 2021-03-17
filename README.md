@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: *Put your name here*
-* Student ID: *Put your ID here*
+* Student Name: Vu Tuan Phuong Nam
+* Student ID: USTHBI9-022
 
