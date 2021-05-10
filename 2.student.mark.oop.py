@@ -53,13 +53,13 @@ class Input:
             value = Course(cId, cName)
             courseLs.append(value)
         return courseLs
-
+'''
     def inpMark(self):
 
 
 class List:
     def lsStudent(self):
-        
+'''        
 
 # main:
 Input().inpStudent()
