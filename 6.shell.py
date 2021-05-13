@@ -1,4 +1,5 @@
 import subprocess as sp
+
 while 1:
-    ps = sp.Popen([input("Shell >> ")])
-    sp.run(ps)
+    ip = input("Shell >> ")
+    ps = sp.run(ip.split(" "))
